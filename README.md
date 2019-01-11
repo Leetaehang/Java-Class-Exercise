@@ -6,4 +6,4 @@
 * Typhoon
 * Lecture
 * Reservation
-* People
+* Person
